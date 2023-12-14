@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 
 ## Running
-To interact with the main functionality of the project, open 'interactive_aligner.ipynb'
+To interact with the main functionality of the project, open 'interactive_aligner.ipynb' and follow enclosed instructions.
 
 To reproduce benchmarking plots:
 ```
@@ -17,7 +17,7 @@ py timing_plots.py
 ```
 
 ## Testing
-To run the test suite simply run the following command
+To run the test suite simply run the following command:
 ```
 pytest
 ```
